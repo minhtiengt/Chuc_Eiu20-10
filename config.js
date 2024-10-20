@@ -1,8 +1,8 @@
-const nameGirl = 'Mẹ iu';
+const nameGirl = 'Mai lò vé';
 const giftUrl = '';
-const eventName = 'Chúc Mừng 08-03';
-const titleCard = 'Tặng Mẹ';
-const contentCard = 'Chúc mẹ của chúng con luôn mạnh khỏe, tươi trẻ và vui vẻ. Chúng con yêu mẹ nhiều ❤️️';
+const eventName = '20-10 Siu dui dẻ';
+const titleCard = 'To Cuaa củaanh';
+const contentCard = 'Chúc bé iu của anh luôn vui vẻ, hạnh phúc và mãi bên em anh nhé. Love u so muchhh ❤️️';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
